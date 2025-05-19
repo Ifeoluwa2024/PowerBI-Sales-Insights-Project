@@ -20,7 +20,10 @@ The dashboard includes:
 
 # 📁 File Contents
 
-- `My PowerBi Project.pbix` — Full interactive report file
+- `My PowerBi Project.pbix'
+[Click here to view the PDF](https://drive.google.com/file/d/191cUiXCLXMX1zjEi3741YOhMR1BuFYbz/view?usp=sharing)
+
+
 
 ---
 
